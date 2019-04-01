@@ -8,12 +8,10 @@ Thank you for joining me on my p5.js adventure.
 
 ## Projects
 
-#### Rose
-
-Rose 001
+#### Rose 001
 ![Rose 001](/rose_001/rose_001.gif)
 
-Rose 002
+#### Rose 002
 ![Rose 002](/rose_002/rose_002.gif)
 
 ## Thanks
