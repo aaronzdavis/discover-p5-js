@@ -11,7 +11,10 @@ Thank you for joining me on my p5.js adventure.
 #### Rose
 
 Rose 001
-![Rose 001](https://media.giphy.com/media/1j9KYeO1VrGEhpORal/giphy.gif)
+![Rose 001](/rose_001/rose_001.gif)
+
+Rose 002
+![Rose 002](/rose_002/rose_002.gif)
 
 ## Thanks
 
