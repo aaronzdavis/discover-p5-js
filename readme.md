@@ -14,9 +14,12 @@ Thank you for joining me on my p5.js adventure.
 #### Rose 002
 ![Rose 002](/rose_002/rose_002.gif)
 
+#### Rose 002
+![Rose 003](/rose_003/rose_003.gif)
+
 ## Thanks
 
-Mokafolio (https://github.com/mokafolio)
-Daniel Shiffman (https://github.com/shiffman)
+* Mokafolio (https://github.com/mokafolio)
+* Daniel Shiffman (https://github.com/shiffman)
 
 <3 Aaron
